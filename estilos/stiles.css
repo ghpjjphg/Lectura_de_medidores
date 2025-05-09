@@ -1,0 +1,19 @@
+
+.imagen{
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 100%;
+}
+.icono{
+    position: relative;
+    width: 150px;
+    text-align: center;
+}
+.colorinconcistencia{
+    background-color: #E8FBFF;
+} 
